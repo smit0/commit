@@ -1,0 +1,7 @@
+
+-rw-rw-r-- 1 ec2-user ec2-user 0 Jan 17 11:42 stgit
+[ec2-user@ip-172-31-45-43 stgit]$ vi stgit
+[ec2-user@ip-172-31-45-43 stgit]$
+[ec2-user@ip-172-31-45-43 stgit]$
+[ec2-user@ip-172-31-45-43 stgit]$ cat > stgit
+
